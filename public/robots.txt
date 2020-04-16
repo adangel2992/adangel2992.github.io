@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://adangel.net/sitemap.xml
